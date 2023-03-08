@@ -33,11 +33,13 @@ The pagination is done on the frontend side only, as backend pagination is not g
 the paginated data is computed synchronously on the data loaded on the start of the application.
 
 
-## Improvements
+## Improvements and time taken
 
 If I had more time, I would have added:
 
 - Different Pages for the Two Lists through Routing
 - `Vuex` support in order to communicate the data among the components.
+- Would've used Promise.all for endpoints calling
 - A mock for the authentication (Login Page)
 - Responsiveness
+- Make the design more attractive 
