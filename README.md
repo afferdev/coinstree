@@ -35,6 +35,8 @@ the paginated data is computed synchronously on the data loaded on the start of 
 
 ## Improvements and time taken
 
+It took me 3 hours to complete this
+
 If I had more time, I would have added:
 
 - Different Pages for the Two Lists through Routing
